@@ -20,7 +20,7 @@ git clone `https://github.com/Tufahel/react-template-microverse.git` using your 
 - run `npm start`.
 
 ## Note
-- Remember to check the version version of react `file: package.json, line: 9`. Though it doesn't change so often so it's just a suggestion.
+- Remember to check the version of react `file: package.json, line: 9`. Though it doesn't change so often so it's just a suggestion.
 
 ## Authors
 
