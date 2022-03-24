@@ -9,7 +9,9 @@
     "react": "^17.0.2",
     "react-dom": "*",
     "react-scripts": "*",
-    "web-vitals": "*"
+    "web-vitals": "*",
+    "react-router-dom": "*",
+    "react-test-renderer": "*"
   },
   "scripts": {
     "start": "react-scripts start",
