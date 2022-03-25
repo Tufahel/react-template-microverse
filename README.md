@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 # Title-Info
 > This is a template for react based projects with linters, package.json and readme setup.
 
